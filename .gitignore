@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
+*.ipynb
+
+.vscode/
+
+tempCodeRunnerFile.py
+
+Thumbs.db
+.DS_Store
+desktop.ini
